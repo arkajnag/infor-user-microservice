@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.arkajnag</groupId>
-	<artifactId>demo-user-service</artifactId>
+	<artifactId>infor-user-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo-user-service</name>
-	<description>Demo project for Spring Boot For Registering User</description>
+	<name>infor-user-service</name>
+	<description>Infor Car Rental Protal project for Spring Boot For Registering User</description>
 
 	<properties>
 		<java.version>1.8</java.version>
